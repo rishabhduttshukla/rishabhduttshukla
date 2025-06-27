@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @rishabhduttshukla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rishabhduttshukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔧 SDET Engineer | Networking Specialist
+- 🌐 Working on EoGRE, RADIUS, and WLAN Custom Solutions
+- 💡 Passionate about Automation and open-source projectshe Preview link to take a look at your changes.
